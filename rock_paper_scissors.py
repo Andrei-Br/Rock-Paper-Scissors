@@ -37,7 +37,7 @@ def play_rps():
             if play_again == 'Y' or play_again == 'y':
                 os.system('cls')
                 continue
-            else:
+            else: 
                 break
 
 #  main function
