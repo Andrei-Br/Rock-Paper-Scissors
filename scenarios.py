@@ -22,7 +22,7 @@ def rock_paper_scissors(player_one, player_two):
 
         # Player one choses SCISSORS
     elif (player_one.lower() == 'scissors') and (player_two.lower() == 'rock'):
-        print('Player one chose: ' + player_one + '\n')
+        print('Player one chose: ' + player_one + '\n') 
         print('Player two chose: ' + player_two + '\n')
         print('Player two won!\n')
     elif (player_one.lower() == 'scissors') and (player_two.lower() == 'paper'):
