@@ -1,7 +1,7 @@
 # Rock-Paper-Scissors
 Rock Paper Scissors Game
 
-# Sample Output 
+# Output Sample
   
       Player one chose: Rock
 
